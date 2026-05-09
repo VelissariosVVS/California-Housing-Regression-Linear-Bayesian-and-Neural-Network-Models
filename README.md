@@ -191,7 +191,7 @@ Because the target is measured in units of $100,000:
 
 ## RMSE Comparison
 
-![RMSE Comparison](reports/rmse_comparison.png)
+![RMSE Comparison](bayersian_linear_regression/reports/rmse_comparison.png)
 
 The MLP substantially reduces prediction error compared with the linear models.
 
@@ -199,7 +199,7 @@ The MLP substantially reduces prediction error compared with the linear models.
 
 ## Prediction vs Actual — MLP
 
-![MLP Predictions](reports/predicted_vs_actual_mlp.png)
+![MLP Predictions](bayersian_linear_regression/reports/predicted_vs_actual_mlp.png)
 
 The MLP predictions align much more closely with the diagonal line, indicating improved predictive performance.
 
@@ -207,7 +207,7 @@ The MLP predictions align much more closely with the diagonal line, indicating i
 
 ## Residual Analysis — MLP
 
-![MLP Residuals](reports/residual_plot_mlp.png)
+![MLP Residuals](bayersian_linear_regression/reports/residual_plot_mlp.png)
 
 Residuals are more concentrated around zero compared with the linear models, suggesting that the MLP captures nonlinear structure more effectively.
 
