@@ -78,7 +78,7 @@ The EDA phase focused on understanding:
 
 # Geographic Distribution of House Values
 
-![Geographic Distribution](reports/geographic_distribution.png)
+![Geographic Distribution](location.png)
 
 The visualization above highlights the strong relationship between location and housing value.
 
@@ -310,21 +310,6 @@ python -m tests.test_sklearn_linear_regression
 python -m tests.test_bayesian_regression
 python -m tests.test_train
 ```
-
----
-
-# Future Improvements
-
-Potential future extensions include:
-
-- Gradient Boosting (XGBoost / LightGBM)
-- Feature engineering
-- Geographic clustering
-- Bayesian Neural Networks
-- Hyperparameter optimization
-- Model checkpointing and experiment tracking
-
----
 
 # Author
 
