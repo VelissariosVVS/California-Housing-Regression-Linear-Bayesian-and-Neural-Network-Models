@@ -79,7 +79,7 @@ The EDA phase focused on understanding:
 
 # Geographic Distribution of House Values
 
-![Geographic Distribution](reports/geographic_distribution.png)
+![Geographic Distribution](reports/location.png)
 
 The visualization above highlights the strong relationship between location and housing value.
 
