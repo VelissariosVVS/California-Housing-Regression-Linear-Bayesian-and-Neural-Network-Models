@@ -209,7 +209,8 @@ The MLP predictions align much more closely with the diagonal line, indicating i
 
 ## Residual Analysis — MLP
 
-![MLP Residuals](bayersian_linear_regression/reports/residual_plot_mlp.png)
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/4ae58056-ea83-4b94-bffc-6635f1c6ac75" />
+
 
 Residuals are more concentrated around zero compared with the linear models, suggesting that the MLP captures nonlinear structure more effectively.
 
