@@ -183,9 +183,7 @@ Because the target is measured in units of $100,000:
 # Metric Comparison
 
 ## RMSE Comparison
-
-![RMSE Comparison](reports/rmse_comparison.png)
-
+<img width="691" height="541" alt="image" src="https://github.com/user-attachments/assets/0ddff433-9cad-41ed-8970-03183d5ea77d" />
 The MLP substantially reduces prediction error compared with the linear models.
 
 ---
