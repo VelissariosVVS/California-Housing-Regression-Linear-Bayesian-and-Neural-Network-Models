@@ -200,7 +200,8 @@ The MLP substantially reduces prediction error compared with the linear models.
 
 ## Prediction vs Actual — MLP
 
-![MLP Predictions](bayersian_linear_regression/reports/predicted_vs_actual_mlp.png)
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d664e9f1-de47-47d3-b7be-72440e345e3b" />
+
 
 The MLP predictions align much more closely with the diagonal line, indicating improved predictive performance.
 
