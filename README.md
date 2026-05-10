@@ -191,7 +191,8 @@ Because the target is measured in units of $100,000:
 
 ## RMSE Comparison
 
-![RMSE Comparison](bayersian_linear_regression/reports/rmse_comparison.png)
+<img width="691" height="541" alt="image" src="https://github.com/user-attachments/assets/940fffe4-dfed-4695-9cb6-14bd82b67089" />
+
 
 The MLP substantially reduces prediction error compared with the linear models.
 
