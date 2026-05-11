@@ -158,7 +158,7 @@ The neural network was implemented using PyTorch.
 * LeakyReLU activations
 * Dropout regularization
 * Huber loss
-* AdamW optimization
+* Adam optimization
 
 ### Strengths
 
